@@ -1,0 +1,15 @@
+/home/heliosantos/DADOS/DIO/DOTNET/Dio.Series/bin/Debug/net6.0/Dio.Series
+/home/heliosantos/DADOS/DIO/DOTNET/Dio.Series/bin/Debug/net6.0/Dio.Series.deps.json
+/home/heliosantos/DADOS/DIO/DOTNET/Dio.Series/bin/Debug/net6.0/Dio.Series.runtimeconfig.json
+/home/heliosantos/DADOS/DIO/DOTNET/Dio.Series/bin/Debug/net6.0/Dio.Series.dll
+/home/heliosantos/DADOS/DIO/DOTNET/Dio.Series/bin/Debug/net6.0/ref/Dio.Series.dll
+/home/heliosantos/DADOS/DIO/DOTNET/Dio.Series/bin/Debug/net6.0/Dio.Series.pdb
+/home/heliosantos/DADOS/DIO/DOTNET/Dio.Series/obj/Debug/net6.0/Dio.Series.csproj.AssemblyReference.cache
+/home/heliosantos/DADOS/DIO/DOTNET/Dio.Series/obj/Debug/net6.0/Dio.Series.GeneratedMSBuildEditorConfig.editorconfig
+/home/heliosantos/DADOS/DIO/DOTNET/Dio.Series/obj/Debug/net6.0/Dio.Series.AssemblyInfoInputs.cache
+/home/heliosantos/DADOS/DIO/DOTNET/Dio.Series/obj/Debug/net6.0/Dio.Series.AssemblyInfo.cs
+/home/heliosantos/DADOS/DIO/DOTNET/Dio.Series/obj/Debug/net6.0/Dio.Series.csproj.CoreCompileInputs.cache
+/home/heliosantos/DADOS/DIO/DOTNET/Dio.Series/obj/Debug/net6.0/Dio.Series.dll
+/home/heliosantos/DADOS/DIO/DOTNET/Dio.Series/obj/Debug/net6.0/ref/Dio.Series.dll
+/home/heliosantos/DADOS/DIO/DOTNET/Dio.Series/obj/Debug/net6.0/Dio.Series.pdb
+/home/heliosantos/DADOS/DIO/DOTNET/Dio.Series/obj/Debug/net6.0/Dio.Series.genruntimeconfig.cache
